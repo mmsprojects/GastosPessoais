@@ -25,7 +25,7 @@ Se você deseja contribuir com o projeto Gastos Pessoais, siga estas etapas:
 Agradecemos antecipadamente por suas contribuições!
 
 ## PROJETOS REFERÊNCIA
-- Kivy (https://github.com/kivy/kivy)
+- Kivy [https://github.com/kivy/kivy](https://github.com/kivy/kivy)
 
 ## Suporte
 
